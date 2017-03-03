@@ -1,7 +1,7 @@
 ### Python packages used in this program.
-csv ==> To read csv data file
-sys ==> To read command line arguments
-itertools ==> To generate options for shopper from combos.
+1) csv ==> To read csv data file
+2) sys ==> To read command line arguments
+3) itertools ==> To generate options for shopper from combos.
 
 ### How to run the program.
 ```
