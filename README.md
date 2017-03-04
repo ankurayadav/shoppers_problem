@@ -25,7 +25,7 @@ Sample Data File data.csv
 
 Some examples
 
-Program Input:
+1) Program Input:
 ```
 $>python shopper.py data.csv teddy_bear baby_powder
 ```
@@ -34,7 +34,7 @@ Expected Output:
 => 2, 11.5
 ```
 
-Program Input:
+2) Program Input:
 ```
 $>python shopper.py data.csv pampers_diapers baby_soap
 ```
@@ -43,7 +43,7 @@ Expected Output:
 => none
 ```
 
-Program Input:
+3) Program Input:
 ```
 $>python shopper.py data.csv scissor bath_towel
 ```
